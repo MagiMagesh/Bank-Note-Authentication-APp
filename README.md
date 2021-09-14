@@ -15,3 +15,5 @@ For the Front End Application Flasgger is Used.
 
 
 ![Swaggerr_POST](https://user-images.githubusercontent.com/86392043/133250065-ec92ba13-7c72-4ea7-91d2-47839f2bf1e3.PNG)
+
+This Application Has the accuracy of 98% for the Authentication
