@@ -2,7 +2,7 @@
 
 ### Created an Bank Note Authentication By using Flasgger
 
-By API site also done by using POSTMAN
+The API site also done by using POSTMAN
 
 ![GET](https://user-images.githubusercontent.com/86392043/133249996-4b55389d-dad3-4371-8731-193979aedbbd.PNG)
 
